@@ -1,1 +1,1 @@
-# hadoop-wordcount-prime
+# character-recognition-mnist
